@@ -6,7 +6,7 @@ Cube Run is a 3D endless runner-style game developed using Unity. The player con
 
 ## Demo
 
-[Watch Gameplay]([your-video-link](https://github.com/SamhitReddy5/Cube_Run/blob/main/Cube%20Run%20Gameplay.mp4))
+[Watch Gameplay](https://github.com/SamhitReddy5/Cube_Run/blob/main/Cube%20Run%20Gameplay.mp4)
 
 ---
 
